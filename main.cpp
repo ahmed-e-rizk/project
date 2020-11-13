@@ -13,7 +13,7 @@ int main()
 {
 	//decorating console
  system( "Title BANK MANAGEMENT SYSTEM " );
- system ( "color f5" );  //change color
+// system ( "color f5" );  //change color
 
 	cout<<"\t\t";
 	char dr[]={'W','e','l','c','o','m','e',' ','D','r',' ','H','a','m','d','y'};
